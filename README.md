@@ -26,4 +26,5 @@ List of the Members of Andela Bootcamp xvi trainees class 2
 22 Ata Tangban <br/>
 23 Bamgbose Omodemilade <br/>
 24 Davies Christopher <br/>
+25 Cyril Paul <br/>
 
