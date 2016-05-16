@@ -24,3 +24,5 @@ List of the Members of Andela Bootcamp xvi trainees class 2
 20 Liasu Hassan Temitope <br/>
 21 Ibrahim Abdulkadir <br/>
 22 Ata Tangban <br/>
+23 Bamgbose Omodemilade <br/>
+
