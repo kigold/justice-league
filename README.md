@@ -13,3 +13,4 @@ List of the Members of Andela Bootcamp xvi trainees class 2
 9 Wilfred Airueghionmon <br/>
 10 Paul Oluyege <br/>
 11 Adeniyi Ramon <br/>
+12 Bolorunduro Winner-Timothy <br/>
