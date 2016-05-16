@@ -7,3 +7,4 @@ List of the Members of Andela Bootcamp xvi trainees class 2
 3 Chika Onwueyi <br/>
 4 Kinglsey Ekoh-Ordan <br/>
 5 Ajayi Abdulganiyu <br/>
+6 Chukwuma Ezumezu <br/>
