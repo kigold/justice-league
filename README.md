@@ -20,3 +20,4 @@ List of the Members of Andela Bootcamp xvi trainees class 2
 16 Balogun Emmanuel <br/>
 17 Ahmad Adelaja <br/>
 18 Kamil Balogun <br/>
+19 Morolake Orekoya <br/>
